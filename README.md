@@ -1,4 +1,14 @@
 # Power-BI-visualization-
+
+
+![superstore](https://github.com/user-attachments/assets/aab51c7e-d99d-42ba-a5d9-191b468ea3db)
+
+
+
+
+
+
+
 **INTRODUCTION.**
 
 In this project i analysed a mega supermart inventory and sale data over a period of 2 years.Mega super mart is a large scale retail store that offers a range of diary farm produce and groceries in categories such as Beverages, Condiments,Meat/Poultry,Diary products and confectionaries.The analysis is focused on drawing insightful trends on product category performance over the years and sales channnel relevancy.
